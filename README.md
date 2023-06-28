@@ -1,7 +1,10 @@
 # Dr-Semmelweis-Analysis-Tragic-Discovery-of-Handwashing
 Data Analysis of births and maternal deaths throughout the 1840s in the Vienna  General Hospital.
 
+
+
 In this project we will discover:
+
 How to make a compelling argument using data
 
 How to superimpose histograms to show differences in distributions
